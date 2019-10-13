@@ -1,0 +1,62 @@
+h2 {
+    margin-left: 11rem;
+}
+
+p {
+    width: 47%;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#gridDisplay {
+    float: left;
+    border: solid black 1px;
+    background-color: lightgrey;
+    width: 100%;
+    height: auto;
+}
+
+#buttons {
+    clear: both;
+    display: inline-flex;
+    margin-top: 12rem;
+    margin-left: 4rem;
+}
+
+#blinkers {
+    margin: 1.5px;
+    border-color: yellow;
+}
+
+#evolve {
+    margin: 1.5px;
+    border-color: green;
+}
+
+#auto {
+    margin: 1.5px;
+    border-color: blue;
+}
+
+#apocolypse {
+    margin: 1.5px;
+    border-color: red;
+}
+
+#gridTable {
+    float: right;
+    background-color: lightgrey;
+    width: 40%;
+    margin-top: -14rem;
+    margin-bottom: 4rem;
+    margin-right: 6rem;
+}
+
+td {
+    border: solid black 1px;
+    height: 20px;
+    background-color: grey;
+}
